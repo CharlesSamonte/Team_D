@@ -14,3 +14,6 @@
 - Researchers
 - Scientist/Environmentalist/Engineering
 - Educational and non-profit organization
+
+# WordPress
+[WordPress Page](https://group-d.softsys.ca/)
